@@ -1,6 +1,8 @@
 Hola! Gracias por esta oportunidad que me han brindado de realizar las pruebas para este proceso.
 en esta ocasión me ha parecido muy interesante el ejercicio y he tenido varios restos que enfrentar de la mejor manera.
 
+Logré realizar el diseño, maquetarlo en CSS y HTML utilizando la estructura de React.JS, de forma responsive y hacer el contador para empezar.
+
 me ha hecho falta importar los sonidos para cada acción siendo para mi esta dificultad, una oportunidad de mejora y profundización
 en cuanto a la sintaxis de React.JS, puntos en los cuales debo mejorar, estudiar y progresar para ofrecer lo mejor de mi
 a su compañía.
