@@ -162,9 +162,9 @@
     right: 43%;
   }
   .vaca{
-    width: 21%;
+    width: 20%;
     left: 37%;
-    bottom: 17%;
+    bottom: 7%;
   }
   .perro{
     width: 8%;
@@ -180,6 +180,7 @@
     left: 2%;
   }
   .card_button{
-    width: 50%;
+    margin-top: 0;
+    width: 70%;
   }
 }
